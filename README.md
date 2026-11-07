@@ -1,4 +1,4 @@
-# empryo-com
+# Empryo
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,134 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-empryo-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://empryo.com/
+Empryo provides an AI coding harness that maps your repository, edits code by symbol, and checks its work. It supports desktop and terminal environments with model selection, offering a free tier and advanced features for developers seeking AI‑assisted coding automation.
+
+**Areas:** AI · Coding · Automation · DeveloperTools · OpenSource · Company
+
+## Empryo on APIs.io
+
+Everything profiled for Empryo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/empryo-com/](https://apis.io/providers/empryo-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (12)
+
+- [Empryo Blog API](https://apis.io/apis/empryo-com/empryo-com-blog-api/) — The Blog API from Empryo — 2 operation(s) for blog.
+- [Empryo Docs API](https://apis.io/apis/empryo-com/empryo-com-docs-api/) — The Docs API from Empryo — 6 operation(s) for docs.
+- [Empryo Glossary API](https://apis.io/apis/empryo-com/empryo-com-glossary-api/) — The Glossary API from Empryo — 1 operation(s) for glossary.
+- [Empryo Health API](https://apis.io/apis/empryo-com/empryo-com-health-api/) — The Health API from Empryo — 1 operation(s) for health.
+- [Empryo Latest.json API](https://apis.io/apis/empryo-com/empryo-com-latest-json-api/) — The Latest.json API from Empryo — 1 operation(s) for latest.json.
+- [Empryo Llms Full.txt API](https://apis.io/apis/empryo-com/empryo-com-llms-full-txt-api/) — The Llms Full.txt API from Empryo — 1 operation(s) for llms full.txt.
+- [Empryo Llms.txt API](https://apis.io/apis/empryo-com/empryo-com-llms-txt-api/) — The Llms.txt API from Empryo — 1 operation(s) for llms.txt.
+- [Empryo Manifest API](https://apis.io/apis/empryo-com/empryo-com-manifest-api/) — The Manifest API from Empryo — 1 operation(s) for manifest.
+- [Empryo Morphs API](https://apis.io/apis/empryo-com/empryo-com-morphs-api/) — The Morphs API from Empryo — 1 operation(s) for morphs.
+- [Empryo Morphs.schema.json API](https://apis.io/apis/empryo-com/empryo-com-morphs-schema-json-api/) — The Morphs.schema.json API from Empryo — 1 operation(s) for morphs.schema.json.
+- [Empryo Releases API](https://apis.io/apis/empryo-com/empryo-com-releases-api/) — The Releases API from Empryo — 1 operation(s) for releases.
+- [Empryo Version API](https://apis.io/apis/empryo-com/empryo-com-version-api/) — The Version API from Empryo — 1 operation(s) for version.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Empryo Com Agentic Access](https://apis.io/agentic-access/empryo-com/empryo-com-agentic-access/)
+
+#### JSON Schema (5)
+
+The data models the API reads and writes.
+
+- [BlogPostList](https://apis.io/schemas/empryo-com/empryo-com-blog-post-list/)
+- [DocList](https://apis.io/schemas/empryo-com/empryo-com-doc-list/)
+- [GlossaryList](https://apis.io/schemas/empryo-com/empryo-com-glossary-list/)
+- [ReleaseList](https://apis.io/schemas/empryo-com/empryo-com-release-list/)
+- [ReleaseManifest](https://apis.io/schemas/empryo-com/empryo-com-release-manifest/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Empryo Com Context](https://apis.io/jsonld/empryo-com/empryo-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Empryo API Rules](https://apis.io/rules/empryo-com/empryo-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Empryo Com Domain Security](https://apis.io/security/empryo-com/empryo-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://empryo.com/)
+- [Documentation](https://empryo.com/docs)
+- [Getting started](https://empryo.com/docs/quickstart)
+- [API reference](https://empryo.com/llms.txt)
+- [Sign up](https://empryo.com/download)
+- [Support](https://empryo.com/contact)
+- [Changelog](https://empryo.com/changelog)
+- [Blog](https://empryo.com/blog)
+- [Privacy policy](https://empryo.com/privacy)
+- [GitHub](https://github.com/proxysoul/Empryo)
+
+## API Evangelist rating
+
+**Kin Score 45.3** — developing · rubric 0.27.0 · scored 2026-11-06
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 53.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 42.1 |
+| Access clarity | 23.7 |
+
+**Agent readiness 35.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 13.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/empryo-com/](https://apis.io/providers/empryo-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Empryo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/empryo-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
